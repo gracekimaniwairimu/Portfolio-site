@@ -1,0 +1,46 @@
+.main-container{
+  font-family:'',sans-serif;
+  min-height: 490px;
+  text-align: center;
+  color:white;
+  color:teal;
+  padding-top: 300px;
+   background: url(https://onlineplus.com.au/wp-content/uploads/2016/11/slider-background-1.jpg);
+
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.title{
+	color:white;
+}
+#sideNav{
+  background-color: blue;
+}
+
+#progress-bar{
+  background-color:green;
+}
+header {
+  background: url("https://images.unsplash.com/photo-1543128639-4cb7e6eeef1b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80") fixed;
+  height: 300px;
+  color: white;
+  font-weight: light;
+  padding-bottom: 600px;
+  padding-top: 300px;
+}
+
+header h1 {
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 1px solid white;
+  border-radius: 360px;
+  padding: 100px;
+  margin-bottom:-350px;
+}
+
+
+.vertical-align {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
